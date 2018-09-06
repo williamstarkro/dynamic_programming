@@ -44,7 +44,8 @@ func amazingNumber(val int64) int64 {
     	// to get the next value, we need to take all the multiples and see
     	// which one is next in line (min val)
     	// once we figure out which one in particular, we can then find the next
-    	// multiple for that specific amazing number
+		// multiple for any multiple that matches it
+		// VERY important to check all
     	// e.g. multiple_2 is min (so we add 1 to our tracker i2, and multiply multiple i2 by 2)
     	if multiples_7 < multiples_3 {
     		if multiples_7 < multiples_2 {
