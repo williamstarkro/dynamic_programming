@@ -1,0 +1,1 @@
+Just trying to not suck at dynamic programming
