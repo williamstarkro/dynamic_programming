@@ -1,1 +1,1 @@
-Just trying to not suck at dynamic programming
+Dynamic Programming Practice
